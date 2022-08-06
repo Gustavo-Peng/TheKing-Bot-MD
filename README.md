@@ -1,26 +1,26 @@
-﻿> #### Versión actual: 1.0.0
+> #### Versión actual: 1.0.0
 
 <p align="center"> 
-  <a href="https://github.com/GustavoBots"><img src="http://readme-typing-svg.herokuapp.com?font=arial&size=20&color=02012A&lines=Bot-Educativo+%E2%98%84%EF%B8%8F;Gracias+por+pasar+por+este+repositorio+;Que+tengas+un+buen+d%C3%ADa+👍" height="90px"
+  <a href="https://github.com/GustavoBots"><img src="http://readme-typing-svg.herokuapp.com?font=Arial+black&color=DCC12E&lines=SE+BIENVENIDO+A+;%F0%9F%91%91THE+KING+BOT%F0%9F%91%91;ESPERO+TE+GUSTE;Y+DISFRUTES+DEL+RINADO;NOS+VEMOS+%F0%9F%91%8B" height="70px"
 </p>
 
 <p align="center">
-<img src="https://cdn.dribbble.com/users/42048/screenshots/8350927/robotintro_dribble.gif" alt="Bot-Educativo" width="600"/>
+<img src="https://c.tenor.com/rhFkUvCXgHEAAAAd/fate-grand-order-ars-almadel-salomonis.gif" alt="TheKing-Bot-MD" width="600"/>
 </p>
 
 
 <p align="center">
-<a href="#"><img title="Bot-Educativo" src="https://img.shields.io/badge/-ME%20REGALARIAS%20UNA%20ESTRELLA%20%F0%9F%8C%9F%20PARA%20SEGUIR%20CRECUIENDO%3F%20%C2%A1GRACIAS!-brightgreen"></a> <img src="https://cdn.dribbble.com/users/77598/screenshots/16399264/media/d86ceb1ad552398787fb76f343080aa6.gif" height="50px">
+<a href="#"><img title="TheKing-Bot-MD" src="https://img.shields.io/badge/-ME%20REGALARIAS%20UNA%20ESTRELLA%20%F0%9F%8C%9F%20PARA%20SEGUIR%20CRECUIENDO%3F%20%C2%A1GRACIAS!-brightgreen"></a> <img src="https://cdn.dribbble.com/users/77598/screenshots/16399264/media/d86ceb1ad552398787fb76f343080aa6.gif" height="50px">
 </p>  
 
 <p align="center">
-<a href="#"><img title="Bot-Educativo" src="https://img.shields.io/badge/-PORFA%20LEE%20TODO%20EL%20README%20PARA%20QUE%20NO%20HAIGA%20ERRORES-informational">
+<a href="#"><img title="TheKing-Bot-MD" src="https://img.shields.io/badge/-PORFA%20LEE%20TODO%20EL%20README%20PARA%20QUE%20NO%20HAIGA%20ERRORES-informational">
 </a>
     
 <p align="center">   
-<a href="https://github.com/GustavoBots/Bot-Educativo/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GustavoBots/Bot-Educativo?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/GustavoBots/Bot-Educativo/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/GustavoBots/Bot-Educativo?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/GustavoBots/Bot-Educativo/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/GustavoBots/Bot-Educativo?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/GustavoBots/TheKing-Bot-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GustavoBots/TheKing-Bot-MD?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/GustavoBots/TheKing-Bot-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/GustavoBots/TheKing-Bot-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/GustavoBots/TheKing-Bot-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/GustavoBots/TheKing-Bot-MD?label=Stars&color=yellow&style=flat-square"></a>
 </p>
 
 -----
@@ -33,17 +33,18 @@
 </p>
   
 ----
-
-> ("𝐍𝐎 𝐒𝐄 𝐏𝐄𝐑𝐌𝐈𝐓𝐄𝐍 𝐁𝐎𝐓𝐒 𝐄𝐍 𝐄𝐋 𝐆𝐑𝐔𝐏𝐎 𝐀𝐒𝐈𝐐𝐔𝐄 𝐏𝐎𝐑𝐅𝐀𝐕𝐎𝐑 𝐒𝐈 𝐄𝐍𝐓𝐑𝐀𝐒 𝐍𝐎 𝐀𝐂𝐓𝐈𝐕𝐄𝐒 𝐄𝐋 𝐁𝐎𝐓 𝐎 𝐈𝐍𝐆𝐑𝐄𝐒𝐀 𝐂𝐎𝐍 𝐎𝐓𝐑𝐎 𝐍𝐔𝐌𝐄𝐑𝐎")
-  
-----
+<a>
+𝐍𝐎 𝐒𝐄 𝐏𝐄𝐑𝐌𝐈𝐓𝐄𝐍 𝐁𝐎𝐓𝐒 𝐄𝐍 𝐄𝐋 𝐆𝐑𝐔𝐏𝐎 𝐀𝐒𝐈𝐐𝐔𝐄 𝐏𝐎𝐑𝐅𝐀𝐕𝐎𝐑 𝐒𝐈 𝐄𝐍𝐓𝐑𝐀𝐒 𝐍𝐎 𝐀𝐂𝐓𝐈𝐕𝐄𝐒 𝐄𝐋 𝐁𝐎𝐓 𝐎 𝐈𝐍𝐆𝐑𝐄𝐒𝐀 𝐂𝐎𝐍 𝐎𝐓𝐑𝐎 𝐍𝐔𝐌𝐄𝐑𝐎
+</a>
+<br>
+<br>
   
 [![blog](https://img.shields.io/badge/Grupo1-Family_Bot_Senpai-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
 )](https://chat.whatsapp.com/L8nOI3GiXSO9UZkFdiN4Wd) <a href="https://chat.whatsapp.com/L8nOI3GiXSO9UZkFdiN4Wd"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
 <a href="http://wa.me/573017901707" target="blank"><img src="https://img.shields.io/badge/Gustavo_Creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-### `—◉ 🖍 LETRA DEL BOT 🖍`
-- PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
-  
+### <p><h2>`—◉ 🖍 LETRA DEL BOT 🖍`</h2>
+<button><strong><a href="https://smiley.cool/es/weirdmaker.php">PAGINA USADA PARA LA LETRA AQUI</a></strong></button></p>
+
 -----
   
 ### 💖 ```DONAR``` [`Aquí`](https://paypal.me/GGutierrezContreras)
@@ -51,7 +52,7 @@
 #### ☂️ PARA USUARIOS DE HEROKU 
 #### ADVERTENCIA: HEROKU ESTA SUSPENDIENDO CUENTAS POR SOLO USAR EL BOT, POR AHORA NO ES RECOMENDABLE USAR EL BOT EN HEROKU!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GustavoBots/Bot-Educativo) <img src="https://thumbs.gfycat.com/GrouchyElegantAlbacoretuna-size_restricted.gif" height="50px">
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GustavoBots/TheKing-Bot-MD) <img src="https://c.tenor.com/zfudrC34xYIAAAAM/gilgamesh.gif" height="50px">
 ### Añada lo siguente al Buildpack: <img src="https://cdn-0.emojis.wiki/emoji-pics/microsoft/backhand-index-pointing-down-microsoft.png" height="32px">
 ```bash
 > heroku/nodejs
@@ -68,12 +69,12 @@
 ----
   
 ### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/GustavoBots/Bot-Educativo/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/GustavoBots/Bot-Educativo/blob/master/config.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/GustavoBots/TheKing-Bot-MD/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/GustavoBots/TheKing-Bot-MD/blob/master/config.js)
   
 ----
 
-### ACTIVAR EN TERMUX  <img src="https://c.tenor.com/hE0T8D0GpXsAAAAC/joinblink-blink.gif" height="32px">
+### ACTIVAR EN TERMUX  <img src="https://c.tenor.com/U3Xsaa-hkCQAAAAM/nero-fate.gif" height="32px">
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
@@ -84,36 +85,35 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/GustavoBots/Bot-Educativo
-> cd Bot-Educativo
-> yarn install 
+> git clone https://github.com/GustavoBots/TheKing-Bot-MD
+> cd TheKing-Bot-MD
 > npm install
-> npm update
+> yarn install 
 > ls
 > npm start
 ```
 ----  
   
 ###  AJUSTE <img src="https://i.pinimg.com/originals/98/1b/e2/981be28d3ec7b85bfb797a5f9e6a01c2.png" height="32px">
-- CLONAR EL REPOSITORIO [`Aquí`](https://github.com/GustavoBots/Bot-Educativo/fork)
-- CAMBIAR NÚMERO DEL OWNER [`Aquí`](https://github.com/GustavoBots/Bot-Educativo/blob/master/config.js)
+- CLONAR EL REPOSITORIO [`Aquí`](https://github.com/GustavoBots/TheKing-Bot-MD/fork)
+- CAMBIAR NÚMERO DEL OWNER [`Aquí`](https://github.com/GustavoBots/TheKing-Bot-MD/blob/master/config.js)
 ----  
 
-### ACTIVAR EN CASO DE DETENERSE <img src="https://integralads.com/wp-content/uploads/2020/03/Wombles_1000px.gif" height="30px">
+### ACTIVAR EN CASO DE DETENERSE <img src="https://c.tenor.com/RS8ZRIXO7TYAAAAM/anime-castor.gif" height="30px">
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Bot-Educativo
+> cd TheKing-Bot-MD
 > npm start
 ```
   
 ----
 
-### OBTENER OTRO CODIGO QR  <img src="https://c.tenor.com/MNEOxP4mqO4AAAAC/bot.gif" height="30px">
+### OBTENER OTRO CODIGO QR  <img src="https://c.tenor.com/rLHIYMRAZUUAAAAM/gilgamesh-babylonia.gif" height="30px">
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Bot-Educativo
+> cd TheKing-Bot-MD
 > rm -rf session.data.json
 > npm start
 ```
@@ -136,7 +136,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ### NOTA 
 ```bash
-- ESTE REPOSITORIO PÚBLICA LA VERSIÓN ACTUAL|OFICIAL DE BOT-EDUCATIVO  
+- ESTE REPOSITORIO PÚBLICA LA VERSIÓN ACTUAL|OFICIAL DE THEKING-BOT-MD  
 - ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
 - ES RECOMENDABLE LEER TODO EL MENU Y VER EL FUNCIONAMIENTO DE CADA UNO DE LOS COMANDOS
 - REPORTA CUALQUIER FALLO CON EL COMANDO DE REPORTE 
@@ -155,7 +155,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
   
 ### 🌟 CREADOR 
  
-[![GustavoBots](https://github.com/GustavoBots.png?size=100)](https://github.com/GustavoBots) <img src="https://c.tenor.com/JRpPtCYXY34AAAAd/rimurugod-tempest.gif" height="100px">
+[![GustavoBots](https://github.com/GustavoBots.png?size=100)](https://github.com/GustavoBots) <img src="https://c.tenor.com/NnDJuK64VrUAAAAM/gawain-fate-extra-last-encore.gif" height="100px">
  
 ### 🌟 AGRADECIMIENTOS
  
