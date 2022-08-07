@@ -11,8 +11,8 @@
     },
     "scripts": {
         "start": "node index.js",
-        "cli": "node . --optimize_for_size --max_old_space_size=460 index.js",
-        "db": "node . --autocleartmp --db 'mongodb+srv://GustavoBots:Akhmad6825@cluster0.mflne.mongodb.net/TheKing-Bot-MD?retryWrites=true&w=majority'"
+        "test": "node test.js",
+        "test2": "nodemon index.js"
     },
     "homepage": "https://github.com/GustavoBots",
     "author": {
