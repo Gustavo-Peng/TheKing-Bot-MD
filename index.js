@@ -1,4 +1,4 @@
-console.log('Iniciando | Starting 🚀🚀🚀')
+console.log('Iniciando | lest go | Starting 🚀🚀🚀')
 
 import { join, dirname } from 'path'
 import { createRequire } from "module";
