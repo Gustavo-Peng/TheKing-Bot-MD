@@ -10,11 +10,10 @@ rows: [
 {title: "🔗 | 𝙰𝙽𝚃𝙸𝙻𝙸𝙽𝙺𝟸", description: "𝙰𝙲𝚃𝙸𝚅𝙰 𝙾 𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰 𝙴𝙻 𝙰𝙽𝚃𝙸 𝙴𝙽𝙻𝙰𝙲𝙴𝚂 𝚀𝚄𝙴 𝙸𝙽𝙸𝙲𝙸𝙰𝙽 𝙴𝙽 𝙷𝚃𝚃𝙿𝚂", rowId: `${usedPrefix + command} antilink2`},    
 {title: "🔎 | 𝙳𝙴𝚃𝙴𝙲𝚃", description: "𝙰𝙲𝚃𝙸𝚅𝙰 𝙾 𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰 𝙻𝙰𝚂 𝙽𝙾𝚃𝙸𝙵𝙸𝙲𝙰𝙲𝙸𝙾𝙽𝙴𝚂 𝙳𝙴 𝙽𝚄𝙴𝚅𝙰 𝙼𝙾𝙳𝙸𝙵𝙸𝙲𝙰𝙲𝙸𝙾𝙽 𝙴𝙽 𝚄𝙽 𝙶𝚁𝚄𝙿𝙾", rowId: `${usedPrefix + command} detect`},
 {title: "👽 | Anti Trabas",description: "𝙲𝙾𝙽 𝙴𝚂𝚃𝙰 𝙾𝙿𝙲𝙸𝙾𝙽 𝙰𝙲𝚃𝙸𝚅𝙰𝙳𝙰 𝙲𝚄𝙰𝙽𝙳𝙾 𝙰𝙻𝙶𝚄𝙸𝙴𝙽 𝙼𝙰𝙽𝙳𝙴 𝚃𝚁𝙰𝙱𝙰𝚂 𝚂𝙴𝚁𝙰 𝙴𝚇𝙿𝚄𝙻𝚂𝙰𝙳𝙾 𝙳𝙴𝙻 𝙶𝚁𝚄𝙿𝙾", rowId: `${usedPrefix + command} antivirtex`},
-{title: "❗  | 𝚁𝙴𝚂𝚃𝚁𝙸𝙲𝚃", description: "𝙰𝙲𝚃𝙸𝚅𝙰 𝙾 𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰 𝙻𝙰𝚂 𝚁𝙴𝚂𝚃𝚁𝙸𝙲𝙲𝙸𝙾𝙽𝙴𝚂 𝙿𝙰𝚁𝙰 𝚂𝙰𝙲𝙰𝚁 𝙶𝙴𝙽𝚃𝙴 𝙳𝙴 𝙶𝚁𝚄𝙿𝙾𝚂", rowId: `${usedPrefix + command} restrict`},    
+{title: "❗ | 𝚁𝙴𝚂𝚃𝚁𝙸𝙲𝚃", description: "𝙰𝙲𝚃𝙸𝚅𝙰 𝙾 𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰 𝙻𝙰𝚂 𝚁𝙴𝚂𝚃𝚁𝙸𝙲𝙲𝙸𝙾𝙽𝙴𝚂 𝙿𝙰𝚁𝙰 𝚂𝙰𝙲𝙰𝚁 𝙶𝙴𝙽𝚃𝙴 𝙳𝙴 𝙶𝚁𝚄𝙿𝙾𝚂", rowId: `${usedPrefix + command} restrict`},    
 {title: "☑️ | 𝙰𝚄𝚃𝙾𝚁𝙴𝙰𝙳", description: "𝙼𝙰𝚁𝙲𝙰 𝙰𝚄𝚃𝙾𝙼𝙰𝚃𝙸𝙲𝙰𝙼𝙴𝙽𝚃𝙴 𝙻𝙰𝚂 𝙲𝙾𝙽𝚅𝙴𝚁𝚂𝙰𝙲𝙸𝙾𝙽𝙴𝚂 𝙲𝙾𝙼𝙾 𝙻𝙴𝙸𝙳𝙾", rowId: `${usedPrefix + command} autoread`},
 {title: "🔊 | 𝙰𝚄𝙳𝙸𝙾𝚂", description: "𝙰𝙲𝚃𝙸𝚅𝙰 𝙾 𝙳𝙴𝚂𝙰𝙲𝚃𝙸𝚅𝙰 𝙻𝙾𝚂 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝙳𝙴 𝙰𝚄𝙳𝙸𝙾𝚂 𝚂𝙸𝙽 𝙿𝚁𝙴𝙵𝙸𝙹𝙾", rowId: `${usedPrefix + command} audios`},
 {title: "👾 | 𝙰𝚄𝚃𝙾𝚂𝚃𝙸𝙲𝙺𝙴𝚁", description: "𝚃𝙾𝙳𝙰𝚂 𝙻𝙰𝚂 𝙸𝙼𝙰𝙶𝙴𝙽𝙴𝚂, 𝚅𝙸𝙳𝙴𝙾𝚂 𝙾 𝙴𝙽𝙻𝙰𝙲𝙴𝚂 𝙴𝙽𝚅𝙸𝙰𝙳𝙾𝚂 𝚂𝙴 𝙲𝙾𝙽𝚅𝙴𝚁𝚃𝙴𝙽 𝙴𝙽 𝚂𝚃𝙸𝙲𝙺𝙴𝚁", rowId: `${usedPrefix + command} autosticker`},
-{title: "🤖 | 𝚂𝙸𝙼𝙸", description: "𝙴𝙻 𝙱𝙾𝚃 𝙷𝙰𝙱𝙻𝙰𝚁𝙰 𝙿𝙾𝚁 𝚂𝙸 𝚂𝙾𝙻𝙾 𝚁𝙴𝚂𝙿𝙾𝙽𝙳𝙸𝙴𝙽𝙳𝙾 𝙰 𝚃𝙾𝙳𝙾𝚂 𝙻𝙾𝚂 𝙼𝙴𝙽𝚂𝙰𝙹𝙴𝚂 𝙲𝙾𝙼𝙾 𝚂𝙸 𝙵𝚄𝙴𝚁𝙰 𝚂𝙸𝙼𝚂𝙸𝙼𝙸", rowId: `${usedPrefix + command} simi`},
 {title: "🕚 | 𝙰𝙽𝚃𝙸 𝚅𝙸𝙴𝚆𝙾𝙽𝙲𝙴", description: "𝙴𝙻 𝙱𝙾𝚃 𝚁𝙴𝙴𝙽𝚅𝙸𝙰𝚁𝙰 𝚃𝙾𝙳𝙾𝚂 𝙻𝙾𝚂 𝙼𝙴𝙽𝚂𝙰𝙹𝙴𝚂 𝙳𝙴 𝚅𝙴𝚁 1 𝚅𝙴𝚉 𝙲𝙾𝙼𝙾 𝚄𝙽𝙰 𝙵𝙾𝚃𝙾 𝙽𝙾𝚁𝙼𝙰𝙻", rowId: `${usedPrefix + command} viewonce`},
 {title: "💬 | 𝙿𝙲𝙾𝙽𝙻𝚈", description: "𝙴𝙻 𝙱𝙾𝚃 𝚂𝙾𝙻𝙾 𝚁𝙴𝚂𝙿𝙾𝙽𝙳𝙴𝚁𝙰 𝙰 𝙻𝙾𝚂 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚂𝙸 𝙴𝚂 𝚄𝙽 𝙲𝙷𝙰𝚃 𝙿𝚁𝙸𝚅𝙰𝙳𝙾", rowId: `${usedPrefix + command} pconly`},
 {title: "🏢 | 𝙶𝙲𝙾𝙽𝙻𝚈", description: "𝙴𝙻 𝙱𝙾𝚃 𝚂𝙾𝙻𝙾 𝚁𝙴𝚂𝙿𝙾𝙽𝙳𝙴𝚁𝙰 𝙰 𝙻𝙾𝚂 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚂𝙸 𝙴𝚂 𝚄𝙽 𝙶𝚁𝚄𝙿𝙾", rowId: `${usedPrefix + command} gconly`},
@@ -64,8 +63,8 @@ if (!isOwner) {
 global.dfail('group', m, conn)
 throw false
 }
-} else if (!isROwner) {
-global.dfail('owner', m, conn)
+} else if (!isAdmin) {
+global.dfail('admin', m, conn)
 throw false
 }
 chat.welcome = isEnable
@@ -76,8 +75,8 @@ break
           global.dfail('group', m, conn)
           throw false
         }
-      } else if (!isOwner) {
-        global.dfail('owner', m, conn)
+      } else if (!isAdmin) {
+        global.dfail('admin', m, conn)
         throw false
       }
       chat.detect = isEnable
@@ -143,17 +142,11 @@ user.autolevelup = isEnable
 break
 case 'modohorny':
 if (m.isGroup) {
-if (!(isOwner)) {
-global.dfail('owner', m, conn)
+if (!(isAdmin || isOwner)) {
+global.dfail('admin', m, conn)
 throw false
 }}
 chat.modohorny = isEnable          
-break
-case 'antisticker':
-if (m.isGroup) {
-if (!(isAdmin || isOwner)) return dfail('admin', m, conn)
-}
-chat.antiSticker = isEnable
 break
 case 'autosticker':
 if (m.isGroup) {
@@ -178,12 +171,6 @@ global.dfail('owner', m, conn)
 throw false
 }
 bot.restrict = isEnable
-break
-case 'simi':
-if (m.isGroup) {
-if (!(isAdmin || isOwner)) return dfail('admin', m, conn)
-}
-chat.simi = isEnable
 break
 case 'nyimak':
 isAll = true
