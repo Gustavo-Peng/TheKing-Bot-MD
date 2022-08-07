@@ -72,9 +72,9 @@ global.wm = '𝐺𝑢𝑠𝑡𝑎𝑣𝑜 𝐵𝑜𝑡𝑠'
 global.igfg = '𝐺𝑢𝑠𝑡𝑎𝑣𝑜 𝐵𝑜𝑡𝑠'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 
-global.imagen1 = fs.readFileSync('./Menu2.jpg')
-global.imagen2 = fs.readFileSync('./src/nuevobot.jpg') 
-global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png')
+//global.imagen1 = fs.readFileSync('./Menu2.jpg')
+//global.imagen2 = fs.readFileSync('./src/nuevobot.jpg') 
+//global.imagen3 = fs.readFileSync('./src/Pre Bot Publi.png')
 
 global.keysZens = ['fiktod', 'c2459db922', 'BF39D349845E', '675e34de8a', '37CC845916', '0b917b905e6f', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
