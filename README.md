@@ -87,8 +87,9 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install yarn
 > git clone https://github.com/GustavoBots/TheKing-Bot-MD
 > cd TheKing-Bot-MD
-> npm install
 > yarn install 
+> npm install
+> npm install -g npm@8.16.0
 > ls
 > npm start
 ```
