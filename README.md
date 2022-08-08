@@ -162,5 +162,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
  
 [![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino) <img src="https://c.tenor.com/c8SIN4sVRgsAAAAC/cat-kitten.gif" height="100px">
 
-  
+### 🌟 CRONTRUBUIDORES 
+ 
+[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) <img src="https://c.tenor.com/RTxlGBfMbbIAAAAM/gato-meme.gif" height="100px">
   
