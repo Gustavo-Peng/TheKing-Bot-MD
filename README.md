@@ -1,7 +1,7 @@
 > #### Versión actual: 1.0.0
 
 <p align="center"> 
-  <a href="https://github.com/GustavoBots"><img src="http://readme-typing-svg.herokuapp.com?font=Arial+black&color=DCC12E&lines=SE+BIENVENIDO+A+;%F0%9F%91%91THE+KING+BOT%F0%9F%91%91;ESPERO+TE+GUSTE;Y+DISFRUTES+DEL+RINADO;NOS+VEMOS+%F0%9F%91%8B" height="70px"
+  <a href="https://github.com/Gustavo-Peng"><img src="http://readme-typing-svg.herokuapp.com?font=Arial+black&color=DCC12E&lines=SE+BIENVENIDO+A+;%F0%9F%91%91THE+KING+BOT%F0%9F%91%91;ESPERO+TE+GUSTE;Y+DISFRUTES+DEL+RINADO;NOS+VEMOS+%F0%9F%91%8B" height="70px"
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 </a>
     
 <p align="center">   
-<a href="https://github.com/GustavoBots/TheKing-Bot-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GustavoBots/TheKing-Bot-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/GustavoBots/TheKing-Bot-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/GustavoBots/TheKing-Bot-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/GustavoBots/TheKing-Bot-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/GustavoBots/TheKing-Bot-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/Gustavo-Peng/TheKing-Bot-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Gustavo-Peng/TheKing-Bot-MD?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/Gustavo-Peng/TheKing-Bot-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Gustavo-Peng/TheKing-Bot-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/Gustavo-Peng/TheKing-Bot-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Gustavo-Peng/TheKing-Bot-MD?label=Stars&color=yellow&style=flat-square"></a>
 </p>
 
 -----
@@ -29,7 +29,7 @@
 
 <p align="hihg">   
 <a href="https://instagram.com/gustavo_smpi/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px">
-<a href="https://github.com/GustavoBots"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=090727&center=verdadero&vCenter=verdadero&lines=Solo+escr%C3%ADba+si+tiene+dudas." height="60px"
+<a href="https://github.com/Gustavo-Peng"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=14&duration=3000&color=090727&center=verdadero&vCenter=verdadero&lines=Solo+escr%C3%ADba+si+tiene+dudas." height="60px"
 </p>
   
 ----
@@ -52,7 +52,7 @@
 #### ☂️ PARA USUARIOS DE HEROKU 
 #### ADVERTENCIA: HEROKU ESTA SUSPENDIENDO CUENTAS POR SOLO USAR EL BOT, POR AHORA NO ES RECOMENDABLE USAR EL BOT EN HEROKU!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/GustavoBots/TheKing-Bot-MD) <img src="https://c.tenor.com/zfudrC34xYIAAAAM/gilgamesh.gif" height="50px">
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Gustavo-Peng/TheKing-Bot-MD) <img src="https://c.tenor.com/zfudrC34xYIAAAAM/gilgamesh.gif" height="50px">
 ### Añada lo siguente al Buildpack: <img src="https://cdn-0.emojis.wiki/emoji-pics/microsoft/backhand-index-pointing-down-microsoft.png" height="32px">
 ```bash
 > heroku/nodejs
@@ -69,8 +69,8 @@
 ----
   
 ### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/GustavoBots/TheKing-Bot-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/GustavoBots/TheKing-Bot-MD/blob/master/config.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/Gustavo-Peng/TheKing-Bot-MD/fork)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/Gustavo-Peng/TheKing-Bot-MD/blob/master/config.js)
   
 ----
 
@@ -85,7 +85,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/GustavoBots/TheKing-Bot-MD
+> git clone https://github.com/Gustavo-Peng/TheKing-Bot-MD
 > cd TheKing-Bot-MD
 > yarn install 
 > npm install
@@ -96,8 +96,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ----  
   
 ###  AJUSTE <img src="https://i.pinimg.com/originals/98/1b/e2/981be28d3ec7b85bfb797a5f9e6a01c2.png" height="32px">
-- CLONAR EL REPOSITORIO [`Aquí`](https://github.com/GustavoBots/TheKing-Bot-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [`Aquí`](https://github.com/GustavoBots/TheKing-Bot-MD/blob/master/config.js)
+- CLONAR EL REPOSITORIO [`Aquí`](https://github.com/Gustavo-Peng/TheKing-Bot-MD/fork)
+- CAMBIAR NÚMERO DEL OWNER [`Aquí`](https://github.com/Gustavo-Peng/TheKing-Bot-MD/blob/master/config.js)
 ----  
 
 ### ACTIVAR EN CASO DE DETENERSE <img src="https://c.tenor.com/RS8ZRIXO7TYAAAAM/anime-castor.gif" height="30px">
@@ -156,7 +156,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
   
 ### 🌟 CREADOR 
  
-[![GustavoBots](https://github.com/GustavoBots.png?size=100)](https://github.com/GustavoBots) <img src="https://c.tenor.com/NnDJuK64VrUAAAAM/gawain-fate-extra-last-encore.gif" height="100px">
+[![Gustavo-Peng](https://github.com/Gustavo-Peng.png?size=100)](https://github.com/Gustavo-Peng) <img src="https://c.tenor.com/NnDJuK64VrUAAAAM/gawain-fate-extra-last-encore.gif" height="100px">
  
 ### 🌟 AGRADECIMIENTOS
  
